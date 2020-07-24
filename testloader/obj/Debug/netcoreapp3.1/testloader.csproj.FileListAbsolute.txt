@@ -1,0 +1,12 @@
+/Users/mihevcm/Documents/code/fargatedemo/testloader/obj/Debug/netcoreapp3.1/testloader.csprojAssemblyReference.cache
+/Users/mihevcm/Documents/code/fargatedemo/testloader/obj/Debug/netcoreapp3.1/testloader.AssemblyInfoInputs.cache
+/Users/mihevcm/Documents/code/fargatedemo/testloader/obj/Debug/netcoreapp3.1/testloader.AssemblyInfo.cs
+/Users/mihevcm/Documents/code/fargatedemo/testloader/obj/Debug/netcoreapp3.1/testloader.csproj.CoreCompileInputs.cache
+/Users/mihevcm/Documents/code/fargatedemo/testloader/bin/Debug/netcoreapp3.1/testloader.deps.json
+/Users/mihevcm/Documents/code/fargatedemo/testloader/bin/Debug/netcoreapp3.1/testloader.runtimeconfig.json
+/Users/mihevcm/Documents/code/fargatedemo/testloader/bin/Debug/netcoreapp3.1/testloader.runtimeconfig.dev.json
+/Users/mihevcm/Documents/code/fargatedemo/testloader/bin/Debug/netcoreapp3.1/testloader.dll
+/Users/mihevcm/Documents/code/fargatedemo/testloader/bin/Debug/netcoreapp3.1/testloader.pdb
+/Users/mihevcm/Documents/code/fargatedemo/testloader/obj/Debug/netcoreapp3.1/testloader.dll
+/Users/mihevcm/Documents/code/fargatedemo/testloader/obj/Debug/netcoreapp3.1/testloader.pdb
+/Users/mihevcm/Documents/code/fargatedemo/testloader/obj/Debug/netcoreapp3.1/testloader.genruntimeconfig.cache
